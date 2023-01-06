@@ -1,2 +1,2 @@
 # ultralytics
-Ultralytics for yolov8
+This is a unoffical repo for Ultralytics YOLOv8
